@@ -26,6 +26,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://dmsean.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dmsean
 linkedin_username: dmsean
+show_excerpts: true
 
 # Build settings
 theme: minima
