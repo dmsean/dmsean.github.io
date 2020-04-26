@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "TimescaleDB"
-date:   2020-03-01 14:34:07 +1000
+date:   2020-04-01 14:34:07 +1000
 categories: metrics timescale 
 ---
 One of the things that I enjoy doing the most is collecting metrics. These
